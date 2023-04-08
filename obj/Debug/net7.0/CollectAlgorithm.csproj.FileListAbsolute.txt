@@ -1,0 +1,15 @@
+C:\Users\MONSTER\GitProject\CollectAlgorithm\bin\Debug\net7.0\CollectAlgorithm.exe
+C:\Users\MONSTER\GitProject\CollectAlgorithm\bin\Debug\net7.0\CollectAlgorithm.deps.json
+C:\Users\MONSTER\GitProject\CollectAlgorithm\bin\Debug\net7.0\CollectAlgorithm.runtimeconfig.json
+C:\Users\MONSTER\GitProject\CollectAlgorithm\bin\Debug\net7.0\CollectAlgorithm.dll
+C:\Users\MONSTER\GitProject\CollectAlgorithm\bin\Debug\net7.0\CollectAlgorithm.pdb
+C:\Users\MONSTER\GitProject\CollectAlgorithm\obj\Debug\net7.0\CollectAlgorithm.csproj.AssemblyReference.cache
+C:\Users\MONSTER\GitProject\CollectAlgorithm\obj\Debug\net7.0\CollectAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\GitProject\CollectAlgorithm\obj\Debug\net7.0\CollectAlgorithm.AssemblyInfoInputs.cache
+C:\Users\MONSTER\GitProject\CollectAlgorithm\obj\Debug\net7.0\CollectAlgorithm.AssemblyInfo.cs
+C:\Users\MONSTER\GitProject\CollectAlgorithm\obj\Debug\net7.0\CollectAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\GitProject\CollectAlgorithm\obj\Debug\net7.0\CollectAlgorithm.dll
+C:\Users\MONSTER\GitProject\CollectAlgorithm\obj\Debug\net7.0\refint\CollectAlgorithm.dll
+C:\Users\MONSTER\GitProject\CollectAlgorithm\obj\Debug\net7.0\CollectAlgorithm.pdb
+C:\Users\MONSTER\GitProject\CollectAlgorithm\obj\Debug\net7.0\CollectAlgorithm.genruntimeconfig.cache
+C:\Users\MONSTER\GitProject\CollectAlgorithm\obj\Debug\net7.0\ref\CollectAlgorithm.dll
